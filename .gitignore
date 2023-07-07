@@ -1,4 +1,10 @@
-resources/_gen
-.hugo_build.lock
-public
-.DS_Store
+# File konfigurasi IDE
+# ---------------------
+/nbproject/
+.idea/*
+# File cache Sublime Text
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
